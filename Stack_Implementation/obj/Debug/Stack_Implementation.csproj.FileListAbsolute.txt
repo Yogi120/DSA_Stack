@@ -1,0 +1,8 @@
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csproj.SuggestedBindingRedirects.cache
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe.config
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.pdb
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.exe
+C:\Users\brijesh.pal\source\repos\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.pdb
