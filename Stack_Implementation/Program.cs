@@ -12,13 +12,18 @@ namespace Stack_Implementation
         {
             Stack s = new Stack();
 
-            s.push(1);
-            s.push(7);
-            s.push(4);
-            s.push(9);
-            s.push(5);
+            s.Push(1);
+            s.Push(7);
+            s.Push(4);
+            s.Push(9);
+            s.Push(5);
 
-          
+            while (!s.IsEmpty())
+            {
+                Console.WriteLine(s.Peek());
+                s.Pop();
+            }
+
         }
     }
 }

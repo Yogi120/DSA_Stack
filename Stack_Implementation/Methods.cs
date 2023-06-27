@@ -10,32 +10,53 @@ namespace Stack_Implementation
     {
         private class Node
         {
-            public int data;
+            public int Data;
             public Node next;
 
             public Node(int data)
             {
-                this.data = data;
+                Data = data;
                 next = null;
             }
         }
 
         static Node head;
-        public bool isEmpty()
+        public bool IsEmpty()
         {
             return head == null;
         }
 
-        public void push(int data)
+        public void Push(int data)
         {
             Node newNode = new Node(data);
-            if (isEmpty())
+            if (IsEmpty())
             {
                 head = newNode;
                 return;
             }
             newNode.next = head;
             head = newNode;
-        } 
+        }
+
+        public int Pop()
+        {
+            if (IsEmpty())
+            {
+                return -1;
+            }
+            int top = head.Data;
+            head = head.next;
+            return top;
+        }
+
+        public int Peek()
+        {
+            if (IsEmpty())
+            {
+                return -1;
+            }
+            return head.Data;
+        }
+
     }
 }
